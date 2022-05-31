@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TSA2COB
+- 👋 Hi, I’m Atanu Sarkar (SX/BSV-TC2)
 - 👀 I’m interested in: R&D topics, automation and hardware related topics
 - 🌱 I’m currently learning: nodeJS, asyncJS and C++
 - 💞️ I’m looking to collaborate on topics: Embedded Systems, IoT, Robotics, Machine Learning, Computer Vision, Deep Learning
